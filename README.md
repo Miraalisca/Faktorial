@@ -1,0 +1,2 @@
+# Faktorial
+ini faktorial
